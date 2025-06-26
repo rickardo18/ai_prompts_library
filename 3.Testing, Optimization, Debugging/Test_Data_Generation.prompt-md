@@ -1,7 +1,7 @@
 I need to generate test data for the following database schema:
 [Paste your schema here]
 
-Please help me create a test data generation plan:
+Help me create a test data generation plan:
 1. Suggest appropriate ranges or types of values for each field
 2. Provide SQL or script to generate a diverse set of test data, including:
    - Normal cases

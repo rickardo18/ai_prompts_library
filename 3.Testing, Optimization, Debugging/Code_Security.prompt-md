@@ -1,6 +1,6 @@
-Please perform a security audit on this code.
+Perform a security audit on this code.
 
-In your audit, please:
+In your audit:
 1. Identify any potential security vulnerabilities, including but not limited to:
    - Injection flaws (SQL, NoSQL, OS command injection, etc.)
    - Broken authentication

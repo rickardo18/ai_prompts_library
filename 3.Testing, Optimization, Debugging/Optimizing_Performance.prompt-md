@@ -1,6 +1,6 @@
-Please analyze the following code for performance optimization opportunities.
+Analyze the following code for performance optimization opportunities.
 
-In your analysis, please:
+In your analysis:
 1. Identify any performance bottlenecks or inefficient operations
 2. Suggest optimizations, considering:
    - Time complexity improvements
